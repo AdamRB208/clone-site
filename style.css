@@ -21,3 +21,39 @@ h1 {
 p {
   color: white;
 }
+
+h2 {
+  background-color: gray;
+  color: white;
+
+}
+
+.blog-bg {
+  background-image: url(https://images.unsplash.com/photo-1733125886491-4744d11c5f71?w=1600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cGluZSUyMHRyZWUlMjBicmFuY2h8ZW58MHx8MHx8fDA%3D);
+  background-size: cover;
+  color: white;
+  width: 100%
+}
+
+.office-bg {
+  background-image: url(https://media.istockphoto.com/id/1501103626/photo/defocused-background-image-of-a-spacious-hallway-in-a-modern-office.webp?a=1&b=1&s=612x612&w=0&k=20&c=CMrJ2NGMR0MoAjanRnUyBygvaKToHnlXIAGG29MYqXI=);
+  background-size: cover;
+  color: white;
+  width: 100%
+}
+
+.expertise-bg {
+  background-image: url(https://media.istockphoto.com/id/157727724/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=V8U4nR5bpiuE9b4oJEHdMXeT19NkZUfc0VmhMN9reow=);
+  background-size: cover;
+  color: white;
+  width: 100%
+}
+
+.col-md-4 p {
+  color: black;
+}
+
+.col p {
+  color: black;
+
+}
