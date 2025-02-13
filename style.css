@@ -5,6 +5,7 @@ nav {
 button {
   border-width: 0px;
   background-color: white;
+  font: arial;
 }
 
 .wood-bg {
@@ -54,6 +55,11 @@ h2 {
 }
 
 .col p {
-  color: black;
+  color: white;
 
+}
+
+.footer-buttons button {
+  color: white;
+  background-color: #212529;
 }
